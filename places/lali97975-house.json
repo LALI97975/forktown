@@ -1,10 +1,43 @@
+
 {
   "id": "lali97975-house",
-  "name": "The coffee house",
+  "name": "Fern Nook",
   "creator": "LALI97975",
   "plot": "K3",
   "building": "cottage",
   "color": "#789B76",
   "decoration": "flowers",
-  "story": "Coffee for a beautiful day."
+  "story": "Coffee for a beautiful day.",
+  "design": {
+    "wall": "#F0E5C8",
+    "trim": "#846C56",
+    "floors": 1,
+    "roof": "classic",
+    "windows": "cross",
+    "garden": "wildflowers",
+    "feature": "none"
+  },
+  "resident": {
+    "name": "Alina",
+    "figure": "male",
+    "skin": "#D9B68B",
+    "hair": "#675A48",
+    "outfit": "#789B76",
+    "accessory": "none",
+    "greeting": "Hello!",
+    "routine": {
+      "morning": "work",
+      "afternoon": "stroll",
+      "evening": "home",
+      "night": "sleep"
+    }
+  },
+  "sign": {
+    "mode": "text",
+    "text": "HELLO",
+    "color": "#FFF4D4",
+    "background": "#35554A",
+    "html": ""
+  }
 }
+
